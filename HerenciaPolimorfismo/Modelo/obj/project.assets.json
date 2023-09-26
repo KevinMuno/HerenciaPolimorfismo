@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kevin Munoz\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Sistema2-16\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kevin Munoz\\Source\\Repos\\HerenciaPolimorfismo\\Modelo\\Modelo.csproj",
+      "projectUniqueName": "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\Modelo\\Modelo.csproj",
       "projectName": "Modelo",
-      "projectPath": "C:\\Users\\Kevin Munoz\\Source\\Repos\\HerenciaPolimorfismo\\Modelo\\Modelo.csproj",
-      "packagesPath": "C:\\Users\\Kevin Munoz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kevin Munoz\\Source\\Repos\\HerenciaPolimorfismo\\Modelo\\obj\\",
+      "projectPath": "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\Modelo\\Modelo.csproj",
+      "packagesPath": "C:\\Users\\Sistema2-16\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\Modelo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Kevin Munoz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Sistema2-16\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -66,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

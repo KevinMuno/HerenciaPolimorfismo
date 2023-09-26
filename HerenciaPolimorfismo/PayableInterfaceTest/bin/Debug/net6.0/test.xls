@@ -1,0 +1,22 @@
+invoice:
+part number 01234 (seat)
+quantity: 2
+price per item: C$375.00
+payment due: C$750.00
+
+invoice:
+part number 56789 (tire)
+quantity: 4
+price per item: C$79.95
+payment due: C$319.80
+
+salaried employee: Juan Espinoza
+social security number: 11-111-1111
+weekly salary: C$800.00
+payment due: C$800.00
+
+salaried employee: Elizabeth Báez
+social security number: 22-222-2222
+weekly salary: C$1,200.00
+payment due: C$1,200.00
+

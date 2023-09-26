@@ -1,0 +1,15 @@
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PayableInterfaceTest\bin\Debug\net6.0\PayableInterfaceTest.exe
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PayableInterfaceTest\bin\Debug\net6.0\PayableInterfaceTest.deps.json
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PayableInterfaceTest\bin\Debug\net6.0\PayableInterfaceTest.runtimeconfig.json
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PayableInterfaceTest\bin\Debug\net6.0\PayableInterfaceTest.dll
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PayableInterfaceTest\bin\Debug\net6.0\PayableInterfaceTest.pdb
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PayableInterfaceTest\obj\Debug\net6.0\PayableInterfaceTest.csproj.AssemblyReference.cache
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PayableInterfaceTest\obj\Debug\net6.0\PayableInterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PayableInterfaceTest\obj\Debug\net6.0\PayableInterfaceTest.AssemblyInfoInputs.cache
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PayableInterfaceTest\obj\Debug\net6.0\PayableInterfaceTest.AssemblyInfo.cs
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PayableInterfaceTest\obj\Debug\net6.0\PayableInterfaceTest.csproj.CoreCompileInputs.cache
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PayableInterfaceTest\obj\Debug\net6.0\PayableInterfaceTest.dll
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PayableInterfaceTest\obj\Debug\net6.0\refint\PayableInterfaceTest.dll
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PayableInterfaceTest\obj\Debug\net6.0\PayableInterfaceTest.pdb
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PayableInterfaceTest\obj\Debug\net6.0\PayableInterfaceTest.genruntimeconfig.cache
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PayableInterfaceTest\obj\Debug\net6.0\ref\PayableInterfaceTest.dll

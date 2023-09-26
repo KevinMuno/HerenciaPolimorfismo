@@ -10,14 +10,23 @@ var payableObjects = new List<IPayable>()
     new SalariedEmployee("Elizabeth", "Báez", "22-222-2222", 1200.00M)
 };
 
-Console.WriteLine(
-    "Invoices and Employees processed polymorphically:\n");
+//Console.WriteLine(
+//    "Invoices and Employees processed polymorphically:\n");
 
-// generically process each element in payableObjects
-foreach (var payable in payableObjects)
+//// generically process each element in payableObjects
+//foreach (var payable in payableObjects)
+//{
+//    // output payable and its appropiate payment amount
+//    Console.WriteLine($"{payable}");
+//    Console.WriteLine( 
+//        $"payment due: {payable.GetPaymentAmount():C}\n");
+//}
+
+using (IPayableSerializer serializer = new PayableFileSerializer())
 {
-    // output payable and its appropiate payment amount
-    Console.WriteLine($"{payable}");
-    Console.WriteLine( 
-        $"payment due: {payable.GetPaymentAmount():C}\n");
+    serializer.WritePayableObjects(payableObjects);
+}
+using (IPayableSerializer serializer = new PayableExcelSerializer())
+{
+    serializer.WritePayableObjects(payableObjects);
 }

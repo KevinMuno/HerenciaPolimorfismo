@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaHerencia", "PruebaHer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayrollSystemTest", "PayrollSystemTest\PayrollSystemTest.csproj", "{409A9967-AE9D-4A6A-B8A2-3EC3D7FC0549}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayableInterfaceTest", "PayableInterfaceTest\PayableInterfaceTest.csproj", "{0F2D1B8E-FF64-4AE9-8C21-D4F9A6311F86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayableInterfaceTest", "PayableInterfaceTest\PayableInterfaceTest.csproj", "{0F2D1B8E-FF64-4AE9-8C21-D4F9A6311F86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaInterface", "PruebaInterface\PruebaInterface.csproj", "{B4EF9BAB-59E2-4604-A771-89B5759921AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{0F2D1B8E-FF64-4AE9-8C21-D4F9A6311F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F2D1B8E-FF64-4AE9-8C21-D4F9A6311F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F2D1B8E-FF64-4AE9-8C21-D4F9A6311F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4EF9BAB-59E2-4604-A771-89B5759921AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EF9BAB-59E2-4604-A771-89B5759921AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EF9BAB-59E2-4604-A771-89B5759921AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EF9BAB-59E2-4604-A771-89B5759921AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

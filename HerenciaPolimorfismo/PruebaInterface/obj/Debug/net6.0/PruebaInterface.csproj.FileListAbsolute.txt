@@ -1,0 +1,15 @@
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PruebaInterface\bin\Debug\net6.0\PruebaInterface.exe
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PruebaInterface\bin\Debug\net6.0\PruebaInterface.deps.json
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PruebaInterface\bin\Debug\net6.0\PruebaInterface.runtimeconfig.json
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PruebaInterface\bin\Debug\net6.0\PruebaInterface.dll
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PruebaInterface\bin\Debug\net6.0\PruebaInterface.pdb
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PruebaInterface\obj\Debug\net6.0\PruebaInterface.csproj.AssemblyReference.cache
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PruebaInterface\obj\Debug\net6.0\PruebaInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PruebaInterface\obj\Debug\net6.0\PruebaInterface.AssemblyInfoInputs.cache
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PruebaInterface\obj\Debug\net6.0\PruebaInterface.AssemblyInfo.cs
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PruebaInterface\obj\Debug\net6.0\PruebaInterface.csproj.CoreCompileInputs.cache
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PruebaInterface\obj\Debug\net6.0\PruebaInterface.dll
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PruebaInterface\obj\Debug\net6.0\refint\PruebaInterface.dll
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PruebaInterface\obj\Debug\net6.0\PruebaInterface.pdb
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PruebaInterface\obj\Debug\net6.0\PruebaInterface.genruntimeconfig.cache
+C:\Users\Sistema2-16\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\PruebaInterface\obj\Debug\net6.0\ref\PruebaInterface.dll
