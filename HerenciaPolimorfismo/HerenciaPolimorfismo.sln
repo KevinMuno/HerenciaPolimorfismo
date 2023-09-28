@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayrollSystemTest", "Payrol
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayableInterfaceTest", "PayableInterfaceTest\PayableInterfaceTest.csproj", "{0F2D1B8E-FF64-4AE9-8C21-D4F9A6311F86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaInterface", "PruebaInterface\PruebaInterface.csproj", "{B4EF9BAB-59E2-4604-A771-89B5759921AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaInterface", "PruebaInterface\PruebaInterface.csproj", "{B4EF9BAB-59E2-4604-A771-89B5759921AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestIComparable", "TestIComparable\TestIComparable.csproj", "{ABCC9AA3-9478-47C0-A41A-0DE08F52BA4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{B4EF9BAB-59E2-4604-A771-89B5759921AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4EF9BAB-59E2-4604-A771-89B5759921AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4EF9BAB-59E2-4604-A771-89B5759921AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABCC9AA3-9478-47C0-A41A-0DE08F52BA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCC9AA3-9478-47C0-A41A-0DE08F52BA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCC9AA3-9478-47C0-A41A-0DE08F52BA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCC9AA3-9478-47C0-A41A-0DE08F52BA4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

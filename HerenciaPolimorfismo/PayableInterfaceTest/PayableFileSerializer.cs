@@ -8,26 +8,26 @@ namespace PayableInterfaceTest
 {
     public class PayableFileSerializer : IPayableSerializer
     {
-        private FileStream fs;
-        private StreamWriter sw;
+        public FileStream Fs { get; set; }
+        public StreamWriter Sw { get; set; }
 
         public PayableFileSerializer()
         {
-            fs = new FileStream("test.txt", FileMode.Create);
-            sw = new StreamWriter(fs);
+            Fs = new FileStream("test.txt", FileMode.Create);
+            Sw = new StreamWriter(Fs);
         }
 
         public void Dispose()
         {
-           if(sw != null)
+           if(Sw != null)
             {
-                sw.Close();
-                sw = null;
+                Sw.Close();
+                Sw = null;
             }
-           if(fs != null)
+           if(Fs != null)
             {
-                fs.Dispose();
-                fs = null;
+                Fs.Dispose();
+                Fs = null;
             }
         }
 
@@ -36,8 +36,8 @@ namespace PayableInterfaceTest
             foreach (var payable in payableObjects)
             {
                 // output payable and its appropiate payment amount
-                sw.WriteLine($"{payable}");
-                sw.WriteLine(
+                Sw.WriteLine($"{payable}");
+                Sw.WriteLine(
                     $"payment due: {payable.GetPaymentAmount():C}\n");
             };
         }

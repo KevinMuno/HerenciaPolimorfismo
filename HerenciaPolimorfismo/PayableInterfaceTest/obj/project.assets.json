@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Sistema2-16\\.nuget\\packages\\": {}
+    "C:\\Users\\Sistema2-15\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayableInterfaceTest\\PayableInterfaceTest.csproj",
+      "projectUniqueName": "C:\\Users\\Sistema2-15\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayableInterfaceTest\\PayableInterfaceTest.csproj",
       "projectName": "PayableInterfaceTest",
-      "projectPath": "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayableInterfaceTest\\PayableInterfaceTest.csproj",
-      "packagesPath": "C:\\Users\\Sistema2-16\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayableInterfaceTest\\obj\\",
+      "projectPath": "C:\\Users\\Sistema2-15\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayableInterfaceTest\\PayableInterfaceTest.csproj",
+      "packagesPath": "C:\\Users\\Sistema2-15\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sistema2-15\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayableInterfaceTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sistema2-16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sistema2-15\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

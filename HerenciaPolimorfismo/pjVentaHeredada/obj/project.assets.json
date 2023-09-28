@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sistema2-16\\.nuget\\packages\\": {}
+    "C:\\Users\\Sistema2-15\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\pjVentaHeredada\\pjVentaHeredada.csproj",
+      "projectUniqueName": "C:\\Users\\Sistema2-15\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\pjVentaHeredada\\pjVentaHeredada.csproj",
       "projectName": "pjVentaHeredada",
-      "projectPath": "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\pjVentaHeredada\\pjVentaHeredada.csproj",
-      "packagesPath": "C:\\Users\\Sistema2-16\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\pjVentaHeredada\\obj\\",
+      "projectPath": "C:\\Users\\Sistema2-15\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\pjVentaHeredada\\pjVentaHeredada.csproj",
+      "packagesPath": "C:\\Users\\Sistema2-15\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sistema2-15\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\pjVentaHeredada\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sistema2-16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sistema2-15\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\Modelo\\Modelo.csproj": {
-              "projectPath": "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\Modelo\\Modelo.csproj"
+            "C:\\Users\\Sistema2-15\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\Modelo\\Modelo.csproj": {
+              "projectPath": "C:\\Users\\Sistema2-15\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\Modelo\\Modelo.csproj"
             }
           }
         }

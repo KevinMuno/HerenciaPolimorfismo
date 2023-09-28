@@ -1,0 +1,15 @@
+C:\Users\Sistema2-15\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\TestIComparable\bin\Debug\net6.0\TestIComparable.exe
+C:\Users\Sistema2-15\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\TestIComparable\bin\Debug\net6.0\TestIComparable.deps.json
+C:\Users\Sistema2-15\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\TestIComparable\bin\Debug\net6.0\TestIComparable.runtimeconfig.json
+C:\Users\Sistema2-15\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\TestIComparable\bin\Debug\net6.0\TestIComparable.dll
+C:\Users\Sistema2-15\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\TestIComparable\bin\Debug\net6.0\TestIComparable.pdb
+C:\Users\Sistema2-15\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\TestIComparable\obj\Debug\net6.0\TestIComparable.csproj.AssemblyReference.cache
+C:\Users\Sistema2-15\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\TestIComparable\obj\Debug\net6.0\TestIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistema2-15\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\TestIComparable\obj\Debug\net6.0\TestIComparable.AssemblyInfoInputs.cache
+C:\Users\Sistema2-15\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\TestIComparable\obj\Debug\net6.0\TestIComparable.AssemblyInfo.cs
+C:\Users\Sistema2-15\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\TestIComparable\obj\Debug\net6.0\TestIComparable.csproj.CoreCompileInputs.cache
+C:\Users\Sistema2-15\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\TestIComparable\obj\Debug\net6.0\TestIComparable.dll
+C:\Users\Sistema2-15\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\TestIComparable\obj\Debug\net6.0\refint\TestIComparable.dll
+C:\Users\Sistema2-15\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\TestIComparable\obj\Debug\net6.0\TestIComparable.pdb
+C:\Users\Sistema2-15\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\TestIComparable\obj\Debug\net6.0\TestIComparable.genruntimeconfig.cache
+C:\Users\Sistema2-15\Source\Repos\HerenciaPolimorfismo\HerenciaPolimorfismo\TestIComparable\obj\Debug\net6.0\ref\TestIComparable.dll

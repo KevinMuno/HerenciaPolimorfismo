@@ -14,10 +14,5 @@ namespace PruebaInterface
         {
            Result = op1 / op2;
         }
-
-        public void Mostrar()
-        {
-            Console.WriteLine("El resultado de la division es: {0}", Result);
-        }
     }
 }

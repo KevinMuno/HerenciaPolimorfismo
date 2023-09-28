@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayrollSystemTest\\PayrollSystemTest.csproj": {}
+    "C:\\Users\\Sistema2-15\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayrollSystemTest\\PayrollSystemTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayrollSystemTest\\PayrollSystemTest.csproj": {
+    "C:\\Users\\Sistema2-15\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayrollSystemTest\\PayrollSystemTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayrollSystemTest\\PayrollSystemTest.csproj",
+        "projectUniqueName": "C:\\Users\\Sistema2-15\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayrollSystemTest\\PayrollSystemTest.csproj",
         "projectName": "PayrollSystemTest",
-        "projectPath": "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayrollSystemTest\\PayrollSystemTest.csproj",
-        "packagesPath": "C:\\Users\\Sistema2-16\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sistema2-16\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayrollSystemTest\\obj\\",
+        "projectPath": "C:\\Users\\Sistema2-15\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayrollSystemTest\\PayrollSystemTest.csproj",
+        "packagesPath": "C:\\Users\\Sistema2-15\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sistema2-15\\Source\\Repos\\HerenciaPolimorfismo\\HerenciaPolimorfismo\\PayrollSystemTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sistema2-16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sistema2-15\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

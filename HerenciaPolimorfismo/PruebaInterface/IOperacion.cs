@@ -10,6 +10,9 @@ namespace PruebaInterface
     {
         double Result { get; set; }
         void Calcular(double op1, double op2);
-        void Mostrar();
+        void Mostrar()
+        {
+            Console.WriteLine("El resultado es {0}", Result);   
+        }
     }
 }

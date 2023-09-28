@@ -13,11 +13,6 @@ namespace PruebaInterface
         public void Calcular(double op1, double op2)
         {
            Result = op1 - op2;
-        }
-
-        public void Mostrar()
-        {
-            Console.WriteLine("El resultado de la resta es: {0}", Result);
-        }
+        }     
     }
 }
